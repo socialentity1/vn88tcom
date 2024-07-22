@@ -1,22 +1,18 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`VN88 <https://vn88t.com/>`_ là một nền tảng cá cược trực tuyến nổi bật tại Việt Nam, nổi bật với sự đa dạng trong các loại hình trò chơi và dịch vụ giải trí. Được biết đến với danh tiếng vững chắc trong ngành cá cược, VN88 cung cấp một loạt các dịch vụ từ cá cược thể thao, xổ số, đến các trò chơi casino và bắn cá.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện thân thiện và dễ sử dụng, VN88 cam kết mang đến cho người chơi những trải nghiệm giải trí chất lượng cao và dịch vụ khách hàng tận tình. VN88 thường xuyên cập nhật các chương trình khuyến mãi hấp dẫn và ưu đãi đặc biệt, nhằm mang đến nhiều cơ hội thắng lớn cho người dùng. Được quản lý bởi một đội ngũ chuyên nghiệp và có kinh nghiệm, VN88 đảm bảo tính công bằng và an toàn trong mọi giao dịch, tạo nên một sân chơi cá cược đáng tin cậy.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: TL10/2 Hẻm 1072, KP 7, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0954395221. 
 
-.. toctree::
+Email: info@vn88t.com. 
 
-   usage
-   api
+Website: https://vn88t.com/
+
+#vn88 #nhacaivn88 #trangchuvn88 #dangkyvn88 #linkvn88
